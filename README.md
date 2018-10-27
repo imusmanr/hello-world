@@ -1,2 +1,5 @@
 # hello-world
-Repository for the Hello World project. 
+
+Hello World,
+
+This is Usman, and I love programming, computers, and tech in general. 
